@@ -39,7 +39,6 @@ The system reads FNOL documents, extracts key claim details, checks for missing 
 | Fraud-related keywords detected | Investigation    |
 | Claim type involves injury      | Specialist Queue |
 | Estimated damage < 25,000       | Fast-track       |
-| Otherwise                       | Standard Review  |
 
 Each routing decision includes a brief reasoning message.
 
