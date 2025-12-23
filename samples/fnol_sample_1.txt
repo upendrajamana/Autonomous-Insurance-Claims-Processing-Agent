@@ -1,0 +1,34 @@
+FIRST NOTICE OF LOSS
+================================
+
+Policy Information
+------------------
+Policy Number: AUTO-2024-12345
+Policyholder Name: John Anderson
+Effective Date: 01/15/2024
+Effective To: 01/15/2025
+
+Incident Information
+--------------------
+Incident Date: 11/20/2024
+Incident Time: 2:30 PM
+Incident Location: 1250 Market Street, San Francisco, CA 94102
+Incident Description: Vehicle rear-ended at stoplight. Minor damage to rear bumper and tail light. Other driver accepted fault at scene.
+
+Involved Parties
+----------------
+Claimant: John Anderson
+Third Parties: Sarah Mitchell (other driver)
+Contact Details: john.anderson@email.com, (415) 555-0123
+
+Asset Details
+-------------
+Asset Type: Vehicle
+Asset ID: VIN-1HGBH41JXMN109186
+Estimated Damage: $3,200.00
+
+Claim Information
+-----------------
+Claim Type: Property Damage
+Attachments: photos.zip, police_report.pdf
+Initial Estimate: $3,200.00

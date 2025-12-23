@@ -1,0 +1,16 @@
+{
+  "extractedFields": {
+    "policy_number": "AUTO-2024-12345",
+    "policyholder_name": "John Anderson",
+    "incident_date": "11/20/2024",
+    "incident_location": "1250 Market Street, San Francisco, CA 94102",
+    "incident_description": "Vehicle rear-ended at stoplight. Minor damage to rear bumper and tail light. Other driver accepted fault at scene.",
+    "claim_type": "Property Damage",
+    "estimated_damage": null
+  },
+  "missingFields": [
+    "estimated_damage"
+  ],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Missing fields: estimated_damage"
+}
